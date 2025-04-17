@@ -1,6 +1,6 @@
 # ⛅ Weather App
 
-A clean and responsive **Weather App** built using **HTML**, **CSS**, and **JavaScript**. This app fetches real-time weather data using a weather API and displays current conditions for any searched location.
+A clean and responsive **Weather App** built using **HTML**, **CSS**, and **JavaScript**. This app fetches real-time weather data using a weather API and displays current conditions for any searched location. 
 
 ## 🔍 Features
 
